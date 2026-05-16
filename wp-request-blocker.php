@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:       WP Request Blocker
- * Plugin URI:        https://vahabzad.ir
+ * Plugin URI:        https://github.com/vahabzad/wp-request-blocker
  * Description:       شناسایی و بلاک کردن درخواست‌های تایم‌اوت برای افزایش سرعت سایت
  * Version:           2.1.5
  * Author:            سید حمید وهاب زاد
